@@ -1,20 +1,22 @@
 
 
 
-Attempt | #1 | #2 
+Session | Type | Reference 
 --- | --- | --- 
-Seconds | 301 | 283 
+1 | Mentoring | https://github.com/sr1983-it-gl/GL-Java-FSD-001-Mentoring-001-Banking 
+--- | --- | --- 
+2 | Lab | https://github.com/sr1983-it-gl/GL-Java-FSD-002-Lab-001-EmailApplication
+--- | --- | --- 
+3 | Mentoring | https://github.com/sr1983-it-gl/GL-Java-FSD-003-Mentoring-002-DS1
+--- | --- | --- 
 
 
 NEXT
 
 
-https://github.com/sr1983-it-gl/GL-Java-FSD-001-Mentoring-001-Banking
-
-https://github.com/sr1983-it-gl/GL-Java-FSD-002-Lab-001-EmailApplication
 
 
-https://github.com/sr1983-it-gl/GL-Java-FSD-003-Mentoring-002-DS1
+
 
 
 https://github.com/sr1983-it-gl/GL-Java-FSD-004-Lab-002-DS2
