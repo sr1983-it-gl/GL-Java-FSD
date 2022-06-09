@@ -1,7 +1,7 @@
 **Sessions**
 
 Session | | Date | Type | Reference 
---- | --- | --- 
+--- | --- | --- | --- 
 1 | 06-March-2022 | Mentoring | https://github.com/sr1983-it-gl/GL-Java-FSD-001-Mentoring-001-Banking 
 2 | Lab | https://github.com/sr1983-it-gl/GL-Java-FSD-002-Lab-001-EmailApplication
 3 | Mentoring | https://github.com/sr1983-it-gl/GL-Java-FSD-003-Mentoring-002-DS1
