@@ -1,8 +1,4 @@
-**Sessions**
 
-Session | Type | Reference 
---- | --- | --- 
-1 | Mentoring | https://github.com/sr1983-it-gl/GL-Java-FSD-001-Mentoring-001-Banking 
 2 | Lab | https://github.com/sr1983-it-gl/GL-Java-FSD-002-Lab-001-EmailApplication
 3 | Mentoring | https://github.com/sr1983-it-gl/GL-Java-FSD-003-Mentoring-002-DS1
 4 | Lab | https://github.com/sr1983-it-gl/GL-Java-FSD-004-Lab-002-DS2
@@ -15,3 +11,10 @@ Session | Type | Reference
 
 
 
+
+
+**Sessions**
+
+Session | Type | Reference 
+--- | --- | --- 
+1 | Mentoring | https://github.com/sr1983-it-gl/GL-Java-FSD-001-Mentoring-001-Banking 
